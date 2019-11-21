@@ -6,4 +6,5 @@ User can select any tradable item from the item list in program and after settin
 the other parameters about pricing, program displays the result instantly.
 There is no database available for this program and no installation required.
 
-Here is a youtube video link to present you how the program works. www.youtube.com/
+Here is a youtube video link for demonstration about how the program works.
+www.youtube.com/
